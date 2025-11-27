@@ -1,0 +1,40 @@
+[
+  {
+    "id": "T001",
+    "name": "Mr. John Kamau",
+    "phone": "+254700000001",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ],
+    "classes": [
+      "Form 2A",
+      "Form 3B"
+    ],
+    "registered_date": "2025-11-01"
+  },
+  {
+    "id": "T002",
+    "name": "Mrs. Sarah Wanjiru",
+    "phone": "+254700000002",
+    "subjects": [
+      "English",
+      "Kiswahili"
+    ],
+    "classes": [
+      "Form 2A",
+      "Form 2B"
+    ],
+    "registered_date": "2025-11-01"
+  },
+  {
+    "id": "T003",
+    "name": "Mr. Pensy Kamau",
+    "phone": "+254725591132",
+    "subjects": [
+      "Mathematics"
+    ],
+    "classes": [],
+    "registered_date": "2025-11-27"
+  }
+]

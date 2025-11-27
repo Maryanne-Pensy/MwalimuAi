@@ -1,0 +1,16 @@
+[
+  {
+    "id": "P001",
+    "name": "Mrs. Fatuma Hassan",
+    "phone": "+254712345678",
+    "children": ["001"],
+    "registered_date": "2025-11-01"
+  },
+  {
+    "id": "P002",
+    "name": "Mr. Peter Mwangi",
+    "phone": "+254723456789",
+    "children": ["002"],
+    "registered_date": "2025-11-01"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "001",
+    "name": "Amina Hassan",
+    "phone": "+254798765001",
+    "class": "Form 2A",
+    "parent_phone": "+254712345678",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "score": 78,
+        "date": "2025-11-20",
+        "total": 100
+      },
+      {
+        "subject": "English",
+        "score": 85,
+        "date": "2025-11-20",
+        "total": 100
+      },
+      {
+        "subject": "Kiswahili",
+        "score": 82,
+        "date": "2025-11-20",
+        "total": 100
+      },
+      {
+        "subject": "Science",
+        "score": 72,
+        "date": "2025-11-18",
+        "total": 100
+      },
+      {
+        "subject": "History",
+        "score": 76,
+        "date": "2025-11-18",
+        "total": 100
+      }
+    ],
+    "attendance": {
+      "present": 18,
+      "absent": 2,
+      "total_days": 20
+    },
+    "weak_areas": [
+      "Algebra",
+      "Geometry"
+    ],
+    "registered_date": "2025-11-01"
+  },
+  {
+    "id": "002",
+    "name": "John Mwangi",
+    "phone": "+254798765002",
+    "class": "Form 2A",
+    "parent_phone": "+254723456789",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "score": 92,
+        "date": "2025-11-20",
+        "total": 100
+      },
+      {
+        "subject": "English",
+        "score": 88,
+        "date": "2025-11-20",
+        "total": 100
+      },
+      {
+        "subject": "Kiswahili",
+        "score": 90,
+        "date": "2025-11-20",
+        "total": 100
+      },
+      {
+        "subject": "Science",
+        "score": 90,
+        "date": "2025-11-18",
+        "total": 100
+      },
+      {
+        "subject": "History",
+        "score": 85,
+        "date": "2025-11-18",
+        "total": 100
+      }
+    ],
+    "attendance": {
+      "present": 20,
+      "absent": 0,
+      "total_days": 20
+    },
+    "weak_areas": [],
+    "registered_date": "2025-11-01"
+  },
+  {
+    "id": "003",
+    "name": "David Kimani",
+    "phone": "+254725591132",
+    "class": "Form 2B",
+    "parent_phone": "+25471234456780",
+    "grades": [],
+    "attendance": {
+      "present": 0,
+      "absent": 0,
+      "total_days": 0
+    },
+    "weak_areas": [],
+    "registered_date": "2025-11-27"
+  }
+]
